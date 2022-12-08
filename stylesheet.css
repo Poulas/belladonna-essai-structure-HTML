@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+body {
+    background: linear-gradient(50deg, rgb(0, 0, 0) 0%, rgb(21, 30, 77) 100%);
+}
+.Header {
+display: flex;
+justify-content: space-between;
+color: white;
+margin-left: 10em;
+margin-right: 10em;
+
+}
+p{
+    font-family: 'Roboto', sans-serif;
+font-style: inherit;
+margin-top: 1em;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+.block {
+    width: 30em;
+    max-width: 50em;
+    height: 25em;
+    border-radius: 2em;
+    margin-top: 15em;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: ivory;
+}
+
+
+
+
+
